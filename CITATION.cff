@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "A weight-6 mirror stabilizer code [[930,5,<=91]]"
+authors:
+  - name: "Singularity"
+year: 2026
+url: "https://github.com/singularity-sd/mirror-code-930"
+license: MIT
